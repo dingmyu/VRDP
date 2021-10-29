@@ -1,6 +1,6 @@
 # VRDP (NeurIPS 2021)
 
-**Dynamic Visual Reasoning by Learning Differentiable Physics Models from Video and Language**
+**[Dynamic Visual Reasoning by Learning Differentiable Physics Models from Video and Language](https://arxiv.org/abs/2110.15358)**
 <br>
 [Mingyu Ding](https://dingmyu.github.io/),
 [Zhenfang Chen](https://zfchenunique.github.io/),
